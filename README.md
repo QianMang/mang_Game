@@ -1,3 +1,3 @@
 # mang_Game
-Here is all my games.
+Here is some of my games.
 Have fun.
