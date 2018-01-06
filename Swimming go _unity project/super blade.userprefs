@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{461F0234-CDFF-0CAA-882F-FBA9F0E11D53}|">
+  <MonoDevelop.Ide.ItemProperties.super_220blade PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Character.cs">
+    <Files>
+      <File FileName="Assets/Script/GameObjectPool.cs" Line="48" Column="24" />
+      <File FileName="Assets/Script/Character.cs" Line="34" Column="32" />
+      <File FileName="Assets/Script/GameManager.cs" Line="409" Column="27" />
+      <File FileName="Assets/Script/CameraManager.cs" Line="11" Column="9" />
+      <File FileName="Assets/Script/InputManager.cs" Line="22" Column="10" />
+      <File FileName="Assets/Script/Object/LandCube.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Object/ObjectManager.cs" Line="7" Column="25" />
+      <File FileName="Assets/Script/Object/Arrow.cs" Line="20" Column="10" />
+      <File FileName="Assets/Script/Tool/CreateLandModel.cs" Line="25" Column="83" />
+      <File FileName="Assets/Script/Tool/ShowFPS.cs" Line="23" Column="5" />
+      <File FileName="Assets/Script/Object/BlockCube.cs" Line="14" Column="3" />
+      <File FileName="Assets/Script/ScoreManager.cs" Line="28" Column="5" />
+      <File FileName="Assets/Script/UIManager.cs" Line="28" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="/Users/mangAI/Desktop/mang/u3D/super blade/Assets/Script/ScoreManager.cs" relfile="Assets/Script/ScoreManager.cs" line="26" column="16" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
