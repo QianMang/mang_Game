@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/wall/Arrow_wall.cs">
+    <Files>
+      <File FileName="Assets/Script/player/MovePlayer.cs" Line="12" Column="19" />
+      <File FileName="Assets/Script/player/MoveCamera.cs" Line="10" Column="5" />
+      <File FileName="Assets/Script/Level/Level.cs" Line="172" Column="22" />
+      <File FileName="Assets/Script/UI/FinishPanelClick.cs" Line="178" Column="10" />
+      <File FileName="Assets/Script/Level/_playerPrefs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/setting/audio_Control.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Level/ShowLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/UI/LevelSelect.cs" Line="30" Column="44" />
+      <File FileName="Assets/Script/UI/FPS.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/item/Item_turn.cs" Line="28" Column="5" />
+      <File FileName="Assets/Script/item/item_diamond.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/wall/Arrow_wall.cs" Line="32" Column="95" />
+      <File FileName="Assets/Script/wall/Wall_turn_zeroOrOne.cs" Line="19" Column="2" />
+      <File FileName="Assets/Script/wall/Arrow_wall_turn.cs" Line="30" Column="56" />
+      <File FileName="Assets/Script/item/Item_over.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/UI/startMenuClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/UI/GameUIPanelClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/player/LevelInfo.cs" Line="8" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
