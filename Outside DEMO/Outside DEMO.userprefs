@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2606C6A4-DFD5-8C50-E10A-0A771ECF0E9A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/UIManager.cs">
+    <Files>
+      <File FileName="Assets/Script/StartSceneControl.cs" Line="12" Column="38" />
+      <File FileName="Assets/Script/UIManager.cs" Line="29" Column="36" />
+      <File FileName="Assets/Script/CreateBlock.cs" Line="41" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Outside_220DEMO PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
